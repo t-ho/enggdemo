@@ -1,4 +1,3 @@
-//ToanHo
 package core;
 
 import java.awt.Color;
